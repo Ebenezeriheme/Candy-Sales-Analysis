@@ -6,6 +6,10 @@ This project shows key metrics and the performance of different Candy Company pr
 - [Data Sources](data-sources)
 - [Tools](tools)
 - [Data Cleaning/Preparation](data-cleaning/preparation)
+- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Data Analysis](data-analysis)
+- [Recommendations](recommendations)
+- [Limitations](limitations)
 
 ### Project Overview
 The candy company wants to optimize its sales performance, production efficiency, and market reach. By analyzing sales data, factory locations, and regional targets, the company aims to identify trends, assess performance against targets, and uncover opportunities for growth and operational improvements.
