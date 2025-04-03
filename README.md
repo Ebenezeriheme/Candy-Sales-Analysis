@@ -36,7 +36,6 @@ EDA involved exploring the Candy Sales Data to answer key questions such as
 
 ## Data Analysis
 ### Result/Findings
-Include some intresting features worked with
 - After performing a detailed analysis of the Cost-to-Profit Ratio for all products in the data-set, Kazookies was identified as the product with the highest Cost-to-Profit Ratio.
 - The customer retention rate stands at 49.5%, indicating a stable level of customer loyalty.
 - Kazookies is significantly above the average of the other products, meaning that its production cost is disproportionate to the profit it generates. This finding suggests that the company is facing a sub-optimal profit margin for this product.
